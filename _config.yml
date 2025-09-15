@@ -1,0 +1,4 @@
+remote_theme: techie-joe/neo
+
+plugins:
+- jekyll-remote-theme
