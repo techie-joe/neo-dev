@@ -2,7 +2,7 @@ title: Neo Dev
 
 remote_theme: techie-joe/neo
 
-remote_theme_build_revision: 3ac0b161b72fc0a7e5bf79877342aa34a4d6a5d4
+remote_theme_build_revision: 4d2ef647563067822d5679265d606b9ff8c7248c
 
 plugins:
 - jekyll-remote-theme
